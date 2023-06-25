@@ -6,7 +6,7 @@ The flow of the study is as follows:
 2. Defining the problem statement and identifying the target variable.
 3. Basic data exploration.
 4. Rejecting useless column to avoid overfitting and reducing the number of features in the model.
-5. Visual Exploratory data analysis for data discription using Histogram and Barcharts, identifying whether the target variable is categorical or qualitative.
+5. Visual Exploratory data analysis for data description using Histogram and Barcharts, identifying whether the target variable is categorical or qualitative.
 6. Feature selection based on the data distribution.
 7. Outlier treatment
 8. Missing value treatment
